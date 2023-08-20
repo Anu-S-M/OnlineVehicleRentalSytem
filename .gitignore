@@ -1,0 +1,8 @@
+# System files
+.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment files (if you're using any)
+.env
