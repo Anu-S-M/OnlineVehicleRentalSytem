@@ -1,4 +1,5 @@
 # OnlineVehicleRentalSytem
+This is the first-year Summer Internship Project of my Engineering where we built a very simple, flexible easy-to-use interface for users to rent their vehicle online using Python as a programming language.
 Introduction:
 The Online Vehicle Rental System developed in Google Colab enables users to rent vehicles for short periods, offering an alternative to purchasing new vehicles. This system is designed to benefit users in need of temporary transportation and car dealers looking to generate additional income through rentals.
 
